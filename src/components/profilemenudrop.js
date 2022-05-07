@@ -73,7 +73,7 @@ const ProfileMenuDrop = () => {
         </div>
         <div className='fourth-detail'>
           <a href='https://github.com/jssourav'> View code </a> <span> • </span>
-          <Link to='/blog'> Blog & news </Link>
+          <Link to='/work-experience'> Work Experience </Link>
         </div>
       </div>
     </div>

@@ -25,7 +25,7 @@ export const WorkExperienceContent = [
     date: '06/2019 - 11/2020',
   },
   {
-    link: 'https://examaasaanhai.com/blog',
+    link: 'https://www.b3net.net/',
     img: 'https://www.b3net.net/wp-content/themes/b3net/images/logo.png',
     icon: 'https://www.b3net.net/wp-content/themes/b3net/images/logo.png',
     name: 'Asst. Executive - Software Developer',

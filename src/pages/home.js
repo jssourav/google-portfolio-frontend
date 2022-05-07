@@ -23,6 +23,10 @@ function Home() {
       name: 'about',
       value: 'about',
     },
+    {
+      name: 'Work Experience',
+      value: 'work-experience',
+    },
     { name: 'works', value: 'works' },
     { name: 'writing', value: 'writing' },
     { name: 'images', value: 'images' },
@@ -118,7 +122,6 @@ function Home() {
           <div className='footer-links-section'>
             <Link to='/about'> About </Link>
             <Link to='/projects'> Projects </Link>
-            <Link to='/blog'> Blog</Link>
             <a href='mailto:sn.sourav1993@gmail.com'> Email </a>
           </div>
           <div className='footer-links-section'>

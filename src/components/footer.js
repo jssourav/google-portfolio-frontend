@@ -10,7 +10,7 @@ const Footer = () => {
         <div className='footer-links-section'>
           <Link to='/about'> About </Link>
           <Link to='/projects'> Projects </Link>
-          <Link to='/blog'> Blog</Link>
+          {/* <Link to='/blog'> Blog</Link> */}
           <a href='mailto:sn.sourav1993@gmail.com'> Email </a>
         </div>
       </div>

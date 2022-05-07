@@ -13,17 +13,21 @@ const MobileSearch = () => {
 
   const options = [
     {
-      name: "everything about you",
-      value: "all"
+      name: 'everything about you',
+      value: 'all',
     },
     {
-      name: "about",
-      value: "about"
+      name: 'about',
+      value: 'about',
     },
-    { name: "works", value: "works" },
-    { name: "writing", value: "writing" },
-    { name: "images", value: "images" },
-    { name: "social", value: "social" }
+    {
+      name: 'Work Experience',
+      value: 'work-experience',
+    },
+    { name: 'works', value: 'works' },
+    { name: 'writing', value: 'writing' },
+    { name: 'images', value: 'images' },
+    { name: 'social', value: 'social' },
   ];
 
   // Get url pathname to use as search value

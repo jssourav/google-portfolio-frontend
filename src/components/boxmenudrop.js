@@ -3,7 +3,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTh } from '@fortawesome/free-solid-svg-icons';
-import logo from '../images/e-logo.png';
+import logo from '../images/google.png';
 import li from '../images/linkedIn-icon.png';
 import gh from '../images/github-icon.png';
 import news from '../images/newspaper.png';
@@ -62,10 +62,10 @@ const BoxMenuDrop = () => {
             <img src={suitcase} alt='' />
             <p> Works </p>
           </Link>
-          <Link className='drop-link' to='/blog'>
+          {/* <Link className='drop-link' to='/blog'>
             <img src={news} alt='' />
             <p> Blog </p>
-          </Link>
+          </Link> */}
           <Link className='drop-link' to='/images'>
             <img src={img} alt='' />
             <p> Images </p>

@@ -12,7 +12,7 @@ import MobileSearch from "./mobileSearch";
 const TopSearchBox = () => {
   const options = [
     {
-      name: 'everything about you',
+      name: 'everything about me',
       value: 'all',
     },
     {

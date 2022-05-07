@@ -80,4 +80,16 @@ export const Content = [
     name: 'GitHub',
     excerpt: `View my projects and code.`,
   },
+  {
+    category: 'social',
+    link: 'https://www.facebook.com/sourav.s.nag/',
+    name: 'Facebook',
+    excerpt: `View my facebook profile.`,
+  },
+  {
+    category: 'social',
+    link: 'https://www.youtube.com/examaasaanhai',
+    name: 'YouTube',
+    excerpt: `View my YouTube Channel.`,
+  },
 ];

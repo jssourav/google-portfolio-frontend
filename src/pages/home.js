@@ -16,7 +16,7 @@ function Home() {
   // The name property is the actual text and the value property is the link
   const options = [
     {
-      name: 'everything about you',
+      name: 'everything about me',
       value: 'all',
     },
     {

@@ -13,7 +13,7 @@ const MobileSearch = () => {
 
   const options = [
     {
-      name: 'everything about you',
+      name: 'everything about me',
       value: 'all',
     },
     {

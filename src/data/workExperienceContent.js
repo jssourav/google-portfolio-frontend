@@ -8,10 +8,7 @@ export const WorkExperienceContent = [
     img: 'https://www.codeclouds.com/wp-content/themes/CodeClouds/images/codeclouds_colour.svg',
     icon: 'https://www.codeclouds.com/wp-content/themes/CodeClouds/images/favicon.ico',
     name: 'Web Developer',
-    excerpt: `Working as a responsible web developer and gathered
-    hands-on experience on Sticky IO CRM, WHM, and
-    Cloudflare, API implementations, client management and
-    communication, and much more to go.`,
+    excerpt: `Sticky IO CRM and AWS s3 Bucket. Installed new API endpoints to accomplish objectives for web applications, such as providing connectivity that improved system functionality and managed complex code.`,
     category: 'CodeClouds IT Solutions Pvt. Ltd.',
     date: '12/2020 - Present',
   },
